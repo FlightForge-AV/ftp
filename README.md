@@ -1,12 +1,1 @@
-# Avioes![vtva-aircraft-short-stirling](https://github.com/user-attachments/assets/9866a201-4376-4387-9a3d-335174e2ebe8)
-![vtva-aircraft-b1b-lancer](https://github.com/user-attachments/assets/c3fe142d-5eeb-49b0-8f9a-d039c54fe6a3)
-![vtva-aircraft-a-4-skyhawk](https://github.com/user-attachments/assets/acfdef2d-200e-45e1-8a6f-0019e2ec54a5)
-![taog-aircraft-uh1h-huey](https://github.com/user-attachments/assets/218c0714-cfd8-4c4f-afc9-256c0b2e419f)
-![pmdg-aircraft-77er](https://github.com/user-attachments/assets/4d177357-a488-4f36-ad26-e9faa2d33d13)
-![indiafoxtecho-aircraft-m346](https://github.com/user-attachments/assets/32265622-a601-4b23-9380-8b9791115365)
-![dcdesigns-aircraft-su27](https://github.com/user-attachments/assets/a0e0912d-79f6-4c7d-9424-189af58e1495)
-![carenado-aircraft-pa28-arrow-iii](https://github.com/user-attachments/assets/b4043a7c-c395-4e41-826a-6c6fc4866a09)
-![carenado-aircraft-pa28-archer-ii](https://github.com/user-attachments/assets/9f8f9c7f-0d5d-462d-91b8-0e409dceea1d)
-![carenado-aircraft-c182rg](https://github.com/user-attachments/assets/efdb5c30-f591-4bdb-89e3-8015f6a791d1)
-![carenado-aircraft](https://github.com/user-attachments/assets/dd9910f8-10e2-410a-bca9-7754c7ba06f1)
-![AS350](https://github.com/user-attachments/assets/a784622f-ccff-4199-bb0f-6ec5f7bd2626)
+
